@@ -33,3 +33,24 @@ padding: 0;
     line-height: 20px;
     word-wrap: break-word;
 }
+.iconcontainer{
+    display: inline-flex;
+    align-self: stretch;
+    padding: 8px;
+    border-radius: 8px; 
+    overflow: hidden; 
+    justify-content: flex-start; 
+    align-items: flex-start;
+}
+
+.iconflex{
+    width: 24px;
+    height: 100%;
+    position: relative;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+}
