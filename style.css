@@ -60,6 +60,8 @@
 }
 
 .headline {
+  background-image: url('./header-shapes\ mobilebackground.png');
+  background-repeat: no-repeat; 
   width: 100%;
   height: 100%;
   padding-left: 24px;
@@ -109,4 +111,12 @@
   font-weight: 500;
   line-height: 24px;
   word-wrap: break-word;
+}
+
+.iconBar{
+    display: inline-flex;
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 12px; 
 }
