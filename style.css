@@ -4,7 +4,9 @@
   margin: 0;
   padding: 0;
 }
-
+@media only screen and (min-width: 768px){}
+/*Mobile screen design*/
+@media only screen and (max-width: 767px){
 .header {
   display: inline-flex;
   width: 100%;
@@ -119,4 +121,5 @@
   justify-content: flex-start;
   align-items: flex-start;
   gap: 12px;
+}
 }
