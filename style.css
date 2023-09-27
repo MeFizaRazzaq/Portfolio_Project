@@ -126,3 +126,7 @@
   gap: 12px;
 }
 }
+/*Styling WorkStation*/
+.workStation{
+  display: grid;
+}
