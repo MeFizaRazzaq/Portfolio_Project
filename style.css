@@ -514,6 +514,7 @@
     line-height: 20px;
     word-wrap: break-word;
     padding: 15px 38px 15px 16px;
+    margin-bottom: 18px;
   }
   
   #mail{
@@ -531,6 +532,7 @@
     line-height: 20px;
     word-wrap: break-word;
     padding: 15px 38px 15px 16px;
+    margin-bottom: 18px;
   }
   
   #msg{
@@ -548,6 +550,7 @@
     line-height: 20px;
     word-wrap: break-word;
     padding: 15px 38px 15px 16px;
+    margin-bottom: 18px;
   }
   .c-btn{
     background-color: white;
