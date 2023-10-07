@@ -463,4 +463,19 @@
     background-color: #6070ff;
     border-radius: 80px 0px 0px 0px;
   }
+  .con-text{
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: poppins, sans-serif;
+    font-weight: 700;
+    line-height: 52px;
+    word-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    padding-top: 131px;
+  }
 }
