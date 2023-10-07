@@ -478,4 +478,18 @@
     gap: 12px;
     padding-top: 131px;
   }
+  .des{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Poppins ,sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+  }
 }
