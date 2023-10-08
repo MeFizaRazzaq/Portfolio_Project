@@ -564,6 +564,16 @@ body {
     border: 1px solid #6070ff;
     border-radius: 8px;
   }
+
+  .btn0:hover{
+    background-color: #6070FF;
+    color: white;
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .btn0:active{
+    background-color: #2230D2;
+    box-shadow: none;
+  }
 }
 /* Desktop screen design-runs on devices which are more than   */
 @media only screen and (min-width: 768px) {
@@ -1179,5 +1189,15 @@ body {
     border: 1px solid #6070ff;
     border-radius: 8px;
   }
-  
+
+  .btn0:hover{
+    background-color: #6070FF;
+    color: white;
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .btn0:active{
+    background-color: #2230D2;
+    box-shadow: none;
+  }
+
 }
