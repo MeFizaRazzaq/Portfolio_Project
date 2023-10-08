@@ -936,16 +936,13 @@ body {
   }
 
   .Myself {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: flex-start;
     display: inline-flex;
     background-color: #fff;
     border-radius: 0 70px 0 0;
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-top: 114px;
-    padding-bottom: 114px;
+    padding: 142px;
   }
 
   .frame {
