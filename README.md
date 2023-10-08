@@ -20,6 +20,7 @@
   - [🛠 Built With](#built-with)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
+- [👥 Contributors](#contributors)
 - [🔭 Future Features](#future-features)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
@@ -44,10 +45,6 @@ CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -62,7 +59,7 @@ CSS
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **MeFizaRazzaq**
 
 - GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/MeFizaRazzaq))
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -72,6 +69,9 @@ CSS
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+## 👥 Contributors <a name="contributers"></a>
+👤 **Mehar-Aziz**
+- GitHub: [@githubhandle](https://github.com/Mehar-Aziz)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
