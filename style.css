@@ -593,6 +593,7 @@ body {
     z-index: 1;
     overflow: hidden;
     top: 0;
+    box-shadow: 0 5px 6px 0 rgb(0 0 0 / 3%), 0 17px 50px 0 rgb(0 0 0 / 8%);
   }
 
   .logoflex {
@@ -637,7 +638,7 @@ body {
 
 .iconflex{
   display: flex;
-  padding: 10px 12px 10px 12px;
+  padding: 0px 12px 10px 12px;
   gap: 4px;
   align-items: center;
   justify-content: flex-end;
@@ -1068,7 +1069,10 @@ body {
   .contactBase {
     width: 90%;
     height: 100%;
-    padding: 142px 319px 127px 320px;
+    padding-top: 142px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 127px;
     display: flex;
     flex-direction: column;
     background-image: url('./Images/contact\ form\ background\ desktop.png');
@@ -1190,14 +1194,19 @@ body {
     border-radius: 8px;
   }
 
-  .btn0:hover{
+  .btn0:hover, .c-btn:hover{
     background-color: #6070FF;
     color: white;
     box-shadow: 0 5px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   }
-  .btn0:active{
+  .btn0:active, .c-btn:active{
     background-color: #2230D2;
     box-shadow: none;
+  }
+
+  .gridRow:hover{
+    border: 1px solid #A7AEFF;
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   }
 
 }
